@@ -27,7 +27,7 @@ If you do not have this installed on your system please refer to:
 1. Clone the project repository:
 
    ```shell
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/mauriciotamez/walmart-scrAPI.git
 
 2. Navigate to the project directory:
 
