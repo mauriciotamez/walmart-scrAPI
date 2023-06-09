@@ -1,6 +1,6 @@
-# Walmart Scraping Script
+# Walmart Scraping REST Service
 
-This script is a Python program that utilizes the Selenium and BeautifulSoup libraries to perform web scraping on the Walmart Mexico website. It extracts department names, URLs, and corresponding subdepartments from the website.
+This script is a Python program that utilizes the Selenium and BeautifulSoup libraries to perform web scraping on the Walmart Mexico website. It extracts department names, URLs, and corresponding subdepartments from the website, we then expose the info returned in a bootstraped FastAPI + Uvicorn Server.
 
 ## Project Build
 
