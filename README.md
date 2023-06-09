@@ -32,14 +32,14 @@ If you do not have this installed on your system please refer to:
 2. Navigate to the project directory:
 
    ```shell
-   cd walmartscrappy
+   cd walmart-scrAPI
 
 To run the build process for the project, follow these steps:
 
 1. Open a terminal or command prompt and navigate to your project.
 
    ```shell
-   cd walmartscrappy
+   cd walmart-scrAPI
 
 2. Execute the build_docker_image.py script using the Python interpreter:
 
@@ -48,7 +48,7 @@ To run the build process for the project, follow these steps:
 
 This will execute the build script and perform the necessary steps to build the project.
 
-## Run the docker image.
+## To run the docker image, follow these steps.
 
 1. Execute the run_docker_image.pyscript using the Python interpreter:
 
